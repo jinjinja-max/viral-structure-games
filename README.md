@@ -1,1 +1,1 @@
-# microbiology-learning-games
+# viral-structure-games
